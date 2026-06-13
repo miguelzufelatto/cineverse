@@ -1,0 +1,31 @@
+{
+  "header": {
+    "all": "Tudo",
+    "movies": "Filmes",
+    "books": "Livros"
+  },
+  "hero": {
+    "title1": "Descubra histórias em",
+    "title2": "filme & papel",
+    "subtitle": "Pesquise filmes e livros simultaneamente. Uma consulta, dois mundos."
+  },
+  "search": {
+    "placeholder": "Pesquisar filmes e livros..."
+  },
+  "results": {
+    "movies": "Filmes",
+    "books": "Livros",
+    "empty": {
+      "title": "Nenhum resultado para",
+      "hint": "Tente um termo diferente"
+    }
+  },
+  "footer": {
+    "text": "Powered by TMDB & Google Books"
+  },
+  "lang": {
+    "en": "English",
+    "es": "Español",
+    "pt-BR": "Português (BR)"
+  }
+}

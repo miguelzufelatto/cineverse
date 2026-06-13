@@ -1,0 +1,20 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model SavedItem {
+  id        String   @id @default(cuid())
+  userId    String   @map("user_id")
+  mediaType String   @map("media_type")
+  mediaId   String   @map("media_id")
+  title     String
+  posterUrl String?  @map("poster_url")
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@unique([userId, mediaType, mediaId])
+  @@map("saved_items")
+}

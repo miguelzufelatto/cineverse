@@ -1,0 +1,31 @@
+{
+  "header": {
+    "all": "All",
+    "movies": "Movies",
+    "books": "Books"
+  },
+  "hero": {
+    "title1": "Discover stories in",
+    "title2": "film & print",
+    "subtitle": "Search across movies and books simultaneously. One query, two worlds."
+  },
+  "search": {
+    "placeholder": "Search movies & books..."
+  },
+  "results": {
+    "movies": "Movies",
+    "books": "Books",
+    "empty": {
+      "title": "No results found for",
+      "hint": "Try a different search term"
+    }
+  },
+  "footer": {
+    "text": "Powered by TMDB & Google Books"
+  },
+  "lang": {
+    "en": "English",
+    "es": "Español",
+    "pt-BR": "Português (BR)"
+  }
+}
