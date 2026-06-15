@@ -5,7 +5,13 @@
       "source": "affaan-m/ECC",
       "sourceType": "github",
       "skillPath": "skills/backend-patterns/SKILL.md",
-      "computedHash": "d7ed6fc2707b070cb8a422ba7f9e1198a2ed8098920789ab0be8be494390391a"
+      "computedHash": "0f4cb3da46b8ce80176f9dbd241242e3033a999b32e952f2467faba4d38d69c9"
+    },
+    "frontend-design": {
+      "source": "anthropics/claude-code",
+      "sourceType": "github",
+      "skillPath": "plugins/frontend-design/skills/frontend-design/SKILL.md",
+      "computedHash": "e8118284a6365753790d44bb2758a6032b3af27fa84696428d9233f2be0f4e78"
     }
   }
 }
